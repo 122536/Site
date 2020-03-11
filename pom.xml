@@ -3,6 +3,7 @@
 		<groupId>br.com.monditech</groupId>
 		<artifactId>site</artifactId>
 		<version>1.0</version>
+		<relativePath />
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.monditech.site</groupId>
