@@ -1,24 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<parent>
-		<groupId>br.com.monditech</groupId>
-		<artifactId>site</artifactId>
-		<version>1.0</version>
-		<relativePath />
-	</parent>
-	<modelVersion>4.0.0</modelVersion>
-	<groupId>br.com.monditech.site</groupId>
-	<artifactId>modulo-processor-entrada</artifactId>
-	<version>1.5-SNAPSHOT</version>
-	<packaging>pom</packaging>
-	<modules>
-		<module>modulo-processor-entrada-model</module>
-		<module>modulo-processor-entrada-dao</module>
-		<module>modulo-processor-entrada-ejb</module>	
-		<module>modulo-processor-entrada-ear</module>
-	</modules>
-	<scm>
-		<connection>scm:svn:https://vsvn.sascar.com.br/svn/aplicacoes_legado_java/producao/SasIntegraV3/modulo-processor-entrada/trunk</connection>
-		<developerConnection>scm:svn:https://vsvn.sascar.com.br/svn/aplicacoes_legado_java/producao/SasIntegraV3/modulo-processor-entrada/trunk</developerConnection>
-		<url>https://vsvn.sascar.com.br/svn/aplicacoes_legado_java/producao/SasIntegraV3/modulo-processor-entrada/trunk/</url>
-	</scm>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>br.com.monditech</groupId>
+  <artifactId>siteweb</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
 </project>
